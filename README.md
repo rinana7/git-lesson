@@ -1,7 +1,6 @@
 # git-lesson
 for git lesson
-
 papa
+hello
 
-
-this is a test
+is a test
